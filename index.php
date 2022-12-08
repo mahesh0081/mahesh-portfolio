@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Mahesh | Portfolio</title>
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1" />
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link id="theme-style" rel="stylesheet" type="text/css" href="">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+</head>
+
+<body>
+
+	<section class="s1">
+		<div class="main-container">
+			<div class="greeting-wrapper">
+				<h1>Hi, I'm Mahesh Sonawane</h1>
+			</div>
+
+
+			<div class="intro-wrapper">
+				<div class="nav-wrapper">
+
+					<!-- Link around dots-wrapper added after tutorial video -->
+					<a href="index.html">
+						<div class="dots-wrapper">
+							<div id="dot-1" class="browser-dot"></div>
+							<div id="dot-2" class="browser-dot"></div>
+							<div id="dot-3" class="browser-dot"></div>
+						</div>
+					</a>
+
+
+					<ul id="navigation">
+						<li><a href="index.html#contact">Contact</a></li>
+
+					</ul>
+				</div>
+
+				<div class="left-column">
+					<img id="profile_pic" src="images/mahesh.jpg">
+					<h5 style="text-align: center;line-height: 0;">CODING | DESIGNIG</h5>
+
+					<!-- <div id="theme-options-wrapper">
+						<div data-mode="light" id="light-mode" class="theme-dot"></div>
+						<div data-mode="blue" id="blue-mode" class="theme-dot"></div>
+						<div data-mode="green" id="green-mode" class="theme-dot"></div>
+						<div data-mode="purple" id="purple-mode" class="theme-dot"></div>
+					</div> -->
+<!-- 
+					<p id="settings-note">*Theme settings will be saved for<br>your next vist</p> -->
+				</div>
+
+				<div class="right-column">
+
+					<div id="preview-shadow">
+						<div id="preview">
+							<div id="corner-tl" class="corner"></div>
+							<div id="corner-tr" class="corner"></div>
+							<h3>What I Do</h3>
+							<p>I was a Design & Develop website also Design Graphic's as freelancer...</p>
+							<div id="corner-br" class="corner"></div>
+							<div id="corner-bl" class="corner"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="s2">
+		<div class="main-container">
+
+			<div class="about-wrapper">
+				<div class="about-me">
+					<h2>About Me</h2>
+
+					<p>I have good knowledge of Web Development & Adv. Photo , video editing. I have done two '
+						internship' at " Decore Digitals " & " Let's Grow More " . During my internship period I have
+						worked on Frontend With Backend Modules / Technology. I am very sound in Web Development . I
+						have strong working knowledge of PHP, CSS, HTML along with that I have done Video editing &
+						Adobe photoshop work.
+
+						Currently, I am seeking for Internship/Full Time level job's in web development or Software
+						development. I'm ready to learn New Technologies & Apply them in my work.
+
+						<br><br>Skills -<br>
+
+						Language - HTML, CSS, Core Java (Intermediate)
+						Database - MySQL
+						Tools - Vs Code, Adobe Photoshop, Filmora,.
+					</p>
+
+					<hr>
+
+					<!-- <h4>TOP EXPERTISE</h4>
+
+					<p>Fullstack developer with primary focus on Django + React: <a target="_blank"
+							href="resume.pdf">Download Resume</a></p>
+
+					<div id="skills">
+						<ul>
+							<li>Python</li>
+							<li>Django</li>
+							<li>JavaScript</li>
+							<li>React</li>
+							<li>Postgres</li>
+						</ul>
+
+						<ul>
+							<li>Google Maps API</li>
+							<li>JS Charts</li>
+							<li>AWS (RDS/S3)</li>
+							<li>Heroku</li>
+							<li>HTML/CSS</li>
+						</ul>
+
+					</div> -->
+
+				</div>
+
+
+				<div class="social-links">
+					<img id="social_img" src="images/about.jpg">
+					<!-- <h3>Find me on Twitter & Youtube</h3>
+
+					<a target="_blank" href="https://www.youtube.com/c/dennisivy">YouTube: @DennisIvy</a>
+					<br>
+					<a target="_blank" href="https://twitter.com/dennisivy11">Twitter: @DennisIvy11</a> -->
+				</div>
+			</div>
+
+		</div>
+	</section>
+
+	<section class="s1">
+		<div class="main-container">
+			<h2 style="text-align: center;">Project</h2>
+
+			<div class="post-wrapper">
+
+				<div>
+					<div class="post">
+						<img class="thumbnail" src="images/to-do.png">
+						<div class="post-preview">
+							<h6 class="post-title">TO-DO List in Js</h6>
+							<p class="post-intro">Simple Todo List website that supports basic Todo list functions like Creating/Deleting Tasks and also striking them when a specific task is done.</p>
+							<a href="https://github.com/mahesh0081/Todo-List-App-in-JavaScript"><i class="fa-solid fa-globe" style="font-size:18px"></i>&nbsp;WEBSITE</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<a href="https://github.com/mahesh0081/Todo-List-App-in-JavaScript"><i class="fa-brands fa-github" style="font-size:18px" ></i>&nbsp;CODE</a>
+						</div>
+					</div>
+				</div>
+
+				<div>
+					<div class="post">
+						<img class="thumbnail" src="images/digital.png">
+						<div class="post-preview">
+							<h6 class="post-title">Decore-Digitals(Marketing Web)</h6>
+							<p class="post-intro">I create this website as per clients requirement. In this web we can show dettails about client and his services.
+							</p>
+							<a href="https://github.com/mahesh0081/Todo-List-App-in-JavaScript"><i class="fa-solid fa-globe" style="font-size:18px"></i>&nbsp;WEBSITE</a>
+						</div>
+					</div>
+				</div>
+
+				<div>
+					<div class="post">
+						<img class="thumbnail" src="images/dream.png">
+						<div class="post-preview">
+							<h6 class="post-title">Dreamer-sky Website</h6>
+							<p class="post-intro">Dreamer-sky is the brand name of Mahesh Sonawane and this is the official business site of Dreamer-sky. It contain online services.</p>
+							<a href="https://github.com/mahesh0081/Todo-List-App-in-JavaScript"><i class="fa-solid fa-globe" style="font-size:18px"></i>&nbsp;WEBSITE</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<!-- <a href="https://github.com/mahesh0081/Todo-List-App-in-JavaScript"><i class="fa-brands fa-github" style="font-size:18px" ></i>&nbsp;CODE</a> -->
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</section>
+	<section class="s1">
+		<h2 style="text-align: center;">Service</h2>
+		<div class="post-wrapper">
+			<div>
+				<div class="post">
+					<!-- <img class="thumbnail" src="images/dream.png"> -->
+					<div class="post-preview">
+						<h5 class="post-title">Web Development</h5>
+						<p class="post-intro">A beautiful spawn website for your business or personal need to get your clients land on in order to understand your services.</p>
+						<a href="#contact">Hire me</a>
+					</div>
+				</div>
+			</div>
+
+			<div>
+				<div class="post">
+					<!-- <img class="thumbnail" src="images/dream.png"> -->
+					<div class="post-preview">
+						<h5 class="post-title">Graphic Designing</h5>
+						<p class="post-intro">Digital India, Digital you. Let's make your product know at online platform and get the most of your customers.</p>
+						<a href="#contact">Hire me</a>
+					</div>
+				</div>
+			</div>
+
+			<div>
+				<div class="post">
+					<!-- <img class="thumbnail" src="images/dream.png"> -->
+					<div class="post-preview">
+						<h5 class="post-title">Post Desiging</h5>
+						<p class="post-intro">A beautiful spawn website for your business or personal need to get your clients land on in order to understand your services.</p>
+						<a href="#contact">Hire me</a>
+					</div>
+				</div>
+			</div>
+
+
+		</div>
+
+	</section>
+
+	<section class="s2">
+		<div class="main-container">
+			<a href=""></a>
+			<h3 style="text-align: center;">Get In Touch</h3>
+
+			<form id="contact-form" method="post">
+				<a name="contact"></a>
+
+				<label>Name</label>
+				<input class="input-field" type="text" name="name">
+
+				<label>Subject</label>
+				<input class="input-field" type="text" name="subject">
+
+				<label>Email</label>
+				<input class="input-field" type="text" name="email">
+
+				<label>Message</label>
+				<textarea class="input-field" name="message"></textarea>
+
+				<input id="submit-btn" type="submit" value="Send">
+			</form>
+		</div>
+	</section>
+	<a
+	href="https://wa.link/6xl3xo"
+	class="whatsapp_float"
+	target="_blank"
+	rel="noopener noreferrer"
+  >
+  <i class="fa-brands fa-whatsapp"></i>
+  </a>
+  
+
+  <?php
+
+$name = $_POST['name'];
+$email = $_POST['email'];
+$subject = $_POST['subject'];
+$message = $_POST['message'];
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+
+
+require 'PHPMailer/Exception.php';
+require 'PHPMailer/SMTP.php';
+require 'PHPMailer/PHPMailer.php';
+
+$mail = new PHPMailer(true);
+try {
+  
+    $mail->isSMTP();                                            
+    $mail->Host       = 'smtp.gmail.com';
+    $mail->SMTPAuth   = true;
+    $mail->Username   = 'maheshsonawane2811@gmail.com';
+    $mail->Password   = 'ndrgkyrxluhualvq';
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+    $mail->Port       = 465;
+    
+
+    $mail->setFrom('maheshsonawane2811@gmail.com');
+    $mail->addAddress('maheshsona28@gmail.com');
+
+    
+
+    $mail->isHTML(true);
+    $mail->Subject = 'Contact US';
+    $mail->Body    = "Name: $name <br> Email: $email <br> Subject: $subject <br> Message: $message";
+
+  
+    $mail->send();
+    echo "<script>alert('Message has been sent')</script>";
+} catch (Exception $e) {
+    echo "<script>alert('Message could not be sent. Mailer Error: {$mail->ErrorInfo}')</script>";
+}
+
+ 
+?>
+
+	<script type="text/javascript" src="script.js"></script>
+</body>
+
+</html>
